@@ -4,7 +4,8 @@
 
 <img width="372" height="183" alt="image" src="https://github.com/user-attachments/assets/79aed1f3-3852-4d97-9f7e-32b311e7d0f9" />
 
-➛ Or enter your email [here](https://constella.sh)
+
+## 👉 Get the easy to install download here [here](https://constella.sh)
 
 ## About this Project
 
